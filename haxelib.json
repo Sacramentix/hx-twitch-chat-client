@@ -14,8 +14,8 @@
 		"haxiomic"
 	],
 	"dependencies": {
-		"ircv3": "",
-		"twitch": ""
+		"ircv3": "git:https://github.com/Sacramentix/hx-ircv3.git",
+		"twitch": "git:https://github.com/Sacramentix/hx-twitch.git"
 	},
 	"version": "4.2.4"
 }
